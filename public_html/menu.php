@@ -13,6 +13,7 @@
 </head>
 
 <body>
+<?php require_once iconos.php?>
     <header>
         <nav class="navbar navbar-expand-xl pt-4 px-4">
             <div class="curve_header"></div>

@@ -14,6 +14,7 @@
 </head>
 
 <body>
+<?php require_once iconos.php?>
   <header style="background-color: black;">
     <nav class="navbar navbar-expand-xl pt-4 px-4">
       <div class="curve_header"></div>
@@ -203,6 +204,7 @@
       </div>
     </section>
   </main>
+  
   <footer class="about_footer">
     <div class="footer_icons">
       <a href="https://www.facebook.com/?locale=es_LA" target="blank"><i class="bx bxl-facebook-circle"></i></a>
@@ -210,6 +212,7 @@
       <a href="https://www.tiktok.com/es/" target="blank"><i class="bx bxl-tiktok"></i></a>
     </div>
   </footer>
+  
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
   <script src="js/login_signup.js"></script>
 </body>
